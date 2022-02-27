@@ -36,6 +36,7 @@ Every project will has its own license depending on the resources of each, and t
 ## Projects:
 
 ### Exploratory Data Analysis:
+  * [We Rate Dogs - Data Wrangling](https://github.com/KarimElshetihy/WeRateDogs-Exploratory-Data-Analysis.git)
   * Retail
   * Terrorism
   * Indian League
