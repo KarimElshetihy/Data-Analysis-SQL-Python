@@ -38,7 +38,7 @@ Every project will has its own license depending on the resources of each, and t
 ### Exploratory Data Analysis:
   * [We Rate Dogs - Data Wrangling](https://github.com/KarimElshetihy/WeRateDogs-Exploratory-Data-Analysis.git)
   * [Brazilian Patients Appointment Exploratory Data Analysis](https://github.com/KarimElshetihy/Brazilian-Patients-Appointment-Exploratory-Data-Analysis.git)
-  * Retail
+  * [Retail Exploratory Data Analysis](https://github.com/KarimElshetihy/Retail-Exploratory-Data-Analysis.git)  
   * Terrorism
   * Indian League
   * Bike Share
