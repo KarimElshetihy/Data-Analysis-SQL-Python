@@ -37,6 +37,7 @@ Every project will has its own license depending on the resources of each, and t
 
 ### Exploratory Data Analysis:
   * [We Rate Dogs - Data Wrangling](https://github.com/KarimElshetihy/WeRateDogs-Exploratory-Data-Analysis.git)
+  * [Brazilian Patients Appointment Exploratory Data Analysis](https://github.com/KarimElshetihy/Brazilian-Patients-Appointment-Exploratory-Data-Analysis.git)
   * Retail
   * Terrorism
   * Indian League
@@ -46,5 +47,5 @@ Every project will has its own license depending on the resources of each, and t
 
 
 ### Hypothesis Testing & A/B Testing:
-  * New VS Old Website Visit Rate A/B Testing
+  * [New VS Old Website Visit Rate A/B Testing](https://github.com/KarimElshetihy/New-VS-Old-Website-Visit-Rate-A-B-Testing.git)
   
