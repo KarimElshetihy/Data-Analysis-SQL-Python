@@ -1,4 +1,5 @@
-# Data Analysis
+# Data Analysis with SQL & Python
+
 This repo contains my projects related to Data Analysis, Data Mining, and Hypothesis Testing, which are made with open source libraries in python like **Numpy**, **Pandas**, **Matplotlib**, and more.
 
 
